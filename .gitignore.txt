@@ -1,0 +1,32 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (ako ih ne želiš na GitHub)
+data/
+*.csv
+*.xlsx
+
+# Ignore Python cache and virtual environment folders
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook hidden folders
+.jupyter/
+
+# Ignore logs or temp files
+*.log
+*.tmp
