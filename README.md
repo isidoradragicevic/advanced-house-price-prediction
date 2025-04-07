@@ -62,4 +62,5 @@ The **Ridge Regression** model had the **lowest mean squared error**, and was se
 ---
 
 ## 📂 Project Structure
-
+The project is organized as follows:
+/ (root directory) │ ├── data/ # Folder for storing raw and processed datasets │ ├── notebooks/ # Jupyter Notebooks for Exploratory Data Analysis (EDA) │ ├── src/ # Source code for the project │ ├── init.py │ ├── feature_engineering.py │ ├── data_preprocessing.py │ └── model.py │ ├── models/ # Folder for saving trained models │ ├── README.md # This file ├── requirements.txt # List of Python dependencies └── .gitignore # Git ignore file for unnecessary files
